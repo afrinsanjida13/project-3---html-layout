@@ -1,0 +1,46 @@
+.header{
+	min-height: 100px;
+	background-color: ghostwhite;
+	font-size: 90px;
+	text-align: center;
+}
+
+.container{
+	overflow: hidden;
+	border: 10px solid black;
+}
+.text{
+	float: left;
+	width: 50%;
+	min-height: 300px;
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 100px;
+}
+
+.image{
+	float: right;
+	width: 50%;
+	min-height: 300px;
+	background-color: darkgrey;
+}
+.footer{
+	min-height: 20px;
+	background-color: ghostwhite;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	display: block;
+	margin-top: 20px;
+}
+p{
+	text-align: center;
+	margin-left: 10px;
+	text-decoration: none;
+	margin-top: 0px;
+}
+.href{
+	justify-content: center;
+	display: flex;
+
+}
